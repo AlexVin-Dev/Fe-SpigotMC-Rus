@@ -1,0 +1,37 @@
+account_does_not_exist: Извините, эта учетная запись не существует.
+database_type_does_not_exist: Этот тип базы данных не существует.
+database_failure_disable: Инициализация базы данных не удалась, отключив Fe.
+command_needs_arguments: Эта команда нуждается в аргументах.
+command_not_console: Команда '$1' не может использоваться в консоли.
+no_permission_for_command: К сожалению, у вас нет разрешения на использование этой команды.
+account_has: Пользователь $1 имеет $2.
+you_have: Ваш баланс $1
+help: EC Help
+help_arguments: $1 Необходимые, $2 Необязательный.
+rich: Доска лидеров.
+conversion: Плагины преобразование.
+converter_does_not_exist: Это преобразование не существует!
+converter_does_not_support: Это преобразование не поддерживает $1
+conversion_succeeded: Преобразование прошло успешно!
+conversion_failed: Ошибка преобразование.
+config_reloaded: Конфигурация была перезагружена.
+not_enough_money: У вас недостаточно денег.
+account_does_not_exist: Извините, эта учетная запись не существует.
+your_account_does_not_exist: У вас нет учетной записи.
+account_exists: Эта учетная запись уже существует
+account_created: Создана учетная запись $1
+account_removed: Удалена учетная запись $1 
+money_recieve: Вы получили $1 от пользователя $2.
+money_sent: Вы отправили $1 пользователю $2.
+max_balance_reached: $1 достиг максимального баланса.
+player_set_money: Вы установили баланс пользователю $1 на сумму $2
+player_grant_money: Вы передали $1 пользователю $2.
+player_granted_money: $2 выдал вам $1.
+player_deduct_money: Вы забрали $1 пользователя $2.
+player_deducted_money: $2 забрал $1 из вашей учетной записи.
+account_created_grant: Создал учетную запись $1 и положил насчет аккаунта $2
+no_accounts_exist: Нет учетных записей.
+name_too_long: Извините, но это слишком длинное имя.
+account_cleaned: Все учетные записи с балансом по умолчанию удалены.
+try_command: Пытаться $1.
+fe_outdated: Fe устарел! Последняя версия - $1.
